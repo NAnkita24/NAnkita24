@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on E-commerce **JAVA**
 
-- 🌱 I’m currently studying **DSA**
+- 🌱 I’m currently studying **React.js**
 
 - 👯 I’m looking to collaborate on **full stack web development project**
 
