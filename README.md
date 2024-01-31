@@ -1,4 +1,4 @@
-![logo](https://github.com/NAnkita24/NAnkita24/blob/main/ankita%20banner.jpeg)
+![logo](https://github.com/NAnkita24/NAnkita24/blob/main/20240131_231246.jpg)
 <h1 align="center">Hi 👋, I'm Ankita Prakash Jagtap</h1>
 <h3 align="center">A passionate entry level web developer from India heading towards to be a full stack developer.Adaptable and quick to learn and eager to tackle new challenges. Always Excited for Learning new concepts and want to develope more & more projects.</h3>
 
