@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **full stack web development project**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
