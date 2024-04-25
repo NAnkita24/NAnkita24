@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on E-commerce **JAVA**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN DEVELOPMENT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
